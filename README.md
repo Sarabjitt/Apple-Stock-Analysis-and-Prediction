@@ -1,16 +1,16 @@
 **Apple-Stock-Analysis-and-Prediction**
 
-**Overview**
+#  **Overview**
 
 This project analyzes historical stock market data of Apple Inc. (AAPL) and applies machine learning techniques to study price trends. The focus is on understanding financial time-series data, performing analysis, and building a prediction model for learning purposes.
 
 
-**Problem Statement**
+#  **Problem Statement**
 
 Stock prices vary over time due to market behavior and trends. This project explores how historical price data can be analyzed and used to identify patterns and make basic predictive observations using machine learning.
 
 
-**Dataset**
+#  **Dataset**
 
 The dataset consists of historical stock price data for Apple Inc., including:
 - Open price  
@@ -20,7 +20,7 @@ The dataset consists of historical stock price data for Apple Inc., including:
 - Trading volume  
 
 
-**Tools & Technologies**
+#  **Tools & Technologies**
 
 - Python  
 - Pandas  
@@ -29,9 +29,8 @@ The dataset consists of historical stock price data for Apple Inc., including:
 - Scikit-learn  
 - Jupyter Notebook  
 
----
 
-**Methodology**
+#  **Methodology**
 
 1. Data loading and preprocessing  
 2. Exploratory data analysis (EDA)  
@@ -40,12 +39,12 @@ The dataset consists of historical stock price data for Apple Inc., including:
 5. Prediction and result analysis  
 
 
-**Results & Observations**
+#   **Results & Observations**
 
 The project demonstrates how historical stock data can be analyzed to study trends. The results highlight both the potential and limitations of using past market data for prediction.
 
 
-**Key Learnings**
+#  **Key Learnings**
 
 - Working with financial time-series data  
 - Data preprocessing and visualization techniques  
@@ -53,7 +52,7 @@ The project demonstrates how historical stock data can be analyzed to study tren
 - Analytical interpretation of prediction results  
 
 
- **Limitations**
+ #  **Limitations**
 - Predictions are based only on historical price data  
 - External economic and market factors are not considered  
 - Model performance depends heavily on data quality  
